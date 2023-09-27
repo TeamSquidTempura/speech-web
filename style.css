@@ -40,3 +40,6 @@ body{
     outline: 2px solid mediumvioletred;
     outline-offset: 0;
 }
+.clip{
+    transform: translate(50%, 0%);
+}
